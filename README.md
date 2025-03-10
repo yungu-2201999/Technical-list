@@ -11,4 +11,4 @@
 
 | 技术      | 地址 |
 | ----------- | ----------- |
-| 基础对接ollama      | [ollama](https://github.com/yungu-2201999/chat-demo) |
+| 基础对接ollama      | [ollama demo](https://github.com/yungu-2201999/chat-demo) |
