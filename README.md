@@ -20,3 +20,10 @@
 | 技术      | 地址 |
 | ----------- | ----------- |
 | 音频可视化 | [audio-visualization](https://github.com/yungu-2201999/audio-visualization) |
+
+# 面试可考察问题
+
+## 数据相关
+| 问题      | 地址 |
+| ----------- | ----------- |
+| 后端返回巨量数据时，前端可以思考哪些方案解决这个问题？      | [mass-data-problem](https://github.com/yungu-2201999/mass-data-problem) |
