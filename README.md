@@ -1,6 +1,9 @@
 # Technical-list
 
-
+## 框架相关
+| 技术      | 地址 |
+| ----------- | ----------- |
+| 封装一个公用的右键菜单组件     | [encapsulated-common-component](https://github.com/yungu-2201999/encapsulated-common-component) |
 
 ## 文件相关
 
