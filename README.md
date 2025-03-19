@@ -7,11 +7,12 @@
 | 实现一个保持宽高比的盒子元素      | [maintain-the-aspect-ratio](https://github.com/yungu-2201999/maintain-the-aspect-ratio) |
 | 纯CSS实现倾斜按钮      | [tilt-button](https://github.com/yungu-2201999/tilt-button) |
 
-## JS与与布局
+## JS与与交互
 
 | 技术      | 地址 |
 | ----------- | ----------- |
 | 实现一个边框跟随鼠标移动而高亮的卡片组 | [heighlight-card](https://github.com/yungu-2201999/heighlight-card) |
+| 实现一个平滑滚动的效果      | [Smooth-rolling](https://github.com/yungu-2201999/Smooth-rolling) |
 
 ## 框架相关
 | 技术      | 地址 |
