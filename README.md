@@ -13,6 +13,7 @@
 | ----------- | ----------- |
 | 实现一个边框跟随鼠标移动而高亮的卡片组 | [heighlight-card](https://github.com/yungu-2201999/heighlight-card) |
 | 实现一个平滑滚动的效果      | [Smooth-rolling](https://github.com/yungu-2201999/Smooth-rolling) |
+| 搭配使用IntersectionObserver实现页面动态效果 | [Intersection-obsserver-demo](https://github.com/yungu-2201999/Intersection-obsserver-demo) |
 
 ## 框架相关
 | 技术      | 地址 |
