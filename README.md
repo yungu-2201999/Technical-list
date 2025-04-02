@@ -17,6 +17,12 @@
 | 搭配使用IntersectionObserver实现页面动态效果 | [Intersection-obsserver-demo](https://github.com/yungu-2201999/Intersection-obsserver-demo) |
 | 使用canvas实现一个绘图demo | [draw-custom-rect](https://github.com/yungu-2201999/draw-custom-rect) |
 
+## JS八股[手写]逻辑题
+
+| 技术      | 地址 |
+| ----------- | ----------- |
+| 消除异步传染性实现方案 | [Elimination-of-asynchronous-infection](https://github.com/yungu-2201999/Elimination-of-asynchronous-infection) |
+
 ## 框架相关
 | 技术      | 地址 |
 | ----------- | ----------- |
