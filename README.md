@@ -6,6 +6,7 @@
 | ----------- | ----------- |
 | 实现一个保持宽高比的盒子元素      | [maintain-the-aspect-ratio](https://github.com/yungu-2201999/maintain-the-aspect-ratio) |
 | 纯CSS实现倾斜按钮      | [tilt-button](https://github.com/yungu-2201999/tilt-button) |
+| 纯css实现一个头像鼠标移入高亮放大效果      | [avatar-move-into-effect](https://github.com/yungu-2201999/avatar-move-into-effect) |
 
 ## JS与与交互
 
